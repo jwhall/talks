@@ -110,3 +110,8 @@ I've been giving talks to the Ohio, Kentucky and Indiana information security co
 <br />Year: 2019
 <br />Abstract: Guidance for SMB's to prevent and respond to ransomware infection.
 <br />
+<br />Title: Improving Insider Threat Defense By Watching Star Trek
+<br />Venue: NKU Cybersecurity Symposium
+<br />Year: 2022
+<br />Abstract: A primer on threat modeling for insider threats as well as a review of some available controls.
+<br />
