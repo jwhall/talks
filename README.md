@@ -115,3 +115,8 @@ I've been giving talks to the Ohio, Kentucky and Indiana information security co
 <br />Year: 2022
 <br />Abstract: A primer on threat modeling for insider threats as well as a review of some available controls.
 <br />
+<br />Title: Asset Inventory - #1 on the Charts, #1 in our <3's
+<br />Venue: NKU Cybersecurity Symposium
+<br />Year: 2023
+<br />Abstract: A primer on threat modeling for insider threats as well as a review of some available controls.
+<br />
