@@ -120,3 +120,7 @@ I've been giving talks to the Ohio, Kentucky and Indiana information security co
 <br />Year: 2023
 <br />Abstract: A primer on threat modeling for insider threats as well as a review of some available controls.
 <br />
+<br />Title: CVSS 4 - The Voyage Home
+<br />Venue: Queen City Con 2023
+<br />Year: 2023
+<br />Abstract: A review of the changes to CVSS in v4 and how to use it.
