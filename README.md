@@ -1,4 +1,4 @@
-I've been giving talks to the Ohio, Kentucky and Indiana information security community since 2009. Here are the slides for most of those talks.
+I've been giving talks to the Ohio, Kentucky and Indiana information security community since 2009. Here are the slides for most of those talks. Also available is a scholarly article in the ISSA Journal from July 2006 about CVSSv2.
 <br />
 <br />Title: Security Vendor Management
 <br />Venue: Cincinnati Infragard DFWG
