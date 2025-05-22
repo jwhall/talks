@@ -124,3 +124,8 @@ I've been giving talks to the Ohio, Kentucky and Indiana information security co
 <br />Venue: Queen City Con 2023
 <br />Year: 2023
 <br />Abstract: A review of the changes to CVSS in v4 and how to use it.
+<br />
+<br />Title: Managing Vulnerabilities in Software Libraries (and Sandwiches)
+<br />Venue: NKU Cybersecurity Symposium, Queen City Con 2024
+<br />Year: 2024
+<br />Abstract: A review of the changes to CVSS in v4 and how to use it.
